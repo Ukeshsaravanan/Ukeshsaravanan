@@ -15,8 +15,8 @@
 - 💬 Ask me about **react, web design, animations**
 
 - 📫 How to reach me **ukeshsaravanan@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uc1K4po34jI96ZVE7tE0aASWQtuCuD7N/view?usp=share_link](https://drive.google.com/file/d/1uc1K4po34jI96ZVE7tE0aASWQtuCuD7N/view?usp=share_link)
+  
+- 📄 Know about my experiences - <a href="https://drive.google.com/file/d/1uc1K4po34jI96ZVE7tE0aASWQtuCuD7N/view?usp=share_link" alt="resume">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
