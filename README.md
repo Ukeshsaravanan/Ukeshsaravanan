@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Threejs, Blender**
 
-- 👨‍💻 All of my projects are available at [https://ukeshsaravanan.vercel.app/](https://ukeshsaravanan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ukeshsaravanan.site](https://ukeshsaravanan.site)
 
 - 💬 Ask me about **react, web design, animations**
 
